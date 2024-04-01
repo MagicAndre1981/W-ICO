@@ -27,6 +27,7 @@
     |   |   Cinema 4D.ico
     |   |   ClipGrab.ico
     |   |   Control Panel (win 11).ico
+    |   |   CrossDeviceExperienceHost.ico
     |   |   CrystalDiskInfo.ico
     |   |   DDORes_2001.ico
     |   |   DDORes_2067.ico
@@ -291,8 +292,10 @@
     |   |   OBS Studio.ico
     |   |   OneDrive.ico
     |   |   Origin.ico
+    |   |   Outlook NEW.ico
     |   |   Package.ico
     |   |   Paint 3D.ico
+    |   |   Paint.ico
     |   |   People.ico
     |   |   Photos.ico
     |   |   Power Automate Troubleshooting Tool.ico
@@ -357,6 +360,7 @@
     |   |   Windows Security.ico
     |   |   Windows Terminal.ico
     |   |   Windows.ico
+    |   |   WindowsBackup.ico
     |   |   Wise Registry Cleaner.ico
     |   |   WSA.ico
     |   |   WSL.ico
@@ -377,16 +381,16 @@
     |   |   |       Acrobat Distiller.ico
     |   |   |       Acrobat Reader.ico
     |   |   |       Audition.ico
+    |   |   |       Beta Premiere Elements.ico
+    |   |   |       Beta Premiere Pro.ico
+    |   |   |       Beta Premiere Rush.ico
     |   |   |       Bridge.ico
     |   |   |       Illustrator.ico
     |   |   |       InCopy.ico
     |   |   |       InDesign.ico
     |   |   |       Photoshop.ico
-    |   |   |       Premiere Elements Beta.ico
     |   |   |       Premiere Elements.ico
-    |   |   |       Premiere Pro Beta.ico
     |   |   |       Premiere Pro.ico
-    |   |   |       Premiere Rush Beta.ico
     |   |   |       Premiere Rush.ico
     |   |   |       
     |   |   +---Book
@@ -401,6 +405,7 @@
     |   |   |       
     |   |   +---File
     |   |   |       Acrobat Reader.ico
+    |   |   |       After Effects AEP NEW.ico
     |   |   |       After Effects AEP.ico
     |   |   |       Audition CDLX.ico
     |   |   |       Audition SESX.ico
@@ -411,29 +416,65 @@
     |   |   |       InDesign INDD.ico
     |   |   |       Photoshop.ico
     |   |   |       Premiere Elements.ico
+    |   |   |       Premiere Pro NEW.ico
     |   |   |       Premiere Pro.ico
     |   |   |       Premiere Rush.ico
+    |   |   |       z ACTION.ico
+    |   |   |       z FDF.ico
+    |   |   |       z PDX.ico
+    |   |   |       z PS.ico
+    |   |   |       z SEC.ico
+    |   |   |       z XDP.ico
+    |   |   |       z XFD.ico
+    |   |   |       z XFDF.ico
     |   |   |       
     |   |   +---Folder
     |   |   |       Acrobat.ico
+    |   |   |       After Effects.ico
+    |   |   |       Audition.ico
+    |   |   |       Beta Character Animator.ico
+    |   |   |       Beta Media Encoder.ico
+    |   |   |       Beta Premiere Pro.ico
     |   |   |       Bridge.ico
+    |   |   |       Character Animator.ico
+    |   |   |       InDesign.ico
     |   |   |       Media Encoder.ico
-    |   |   |       Photoshop Plugin.ico
     |   |   |       Photoshop.ico
-    |   |   |       Premiere Pro Beta.ico
+    |   |   |       Plugin InDesign.ico
+    |   |   |       Plugin Photoshop.ico
     |   |   |       Premiere Pro.ico
     |   |   |       
     |   |   +---Package
+    |   |   |       After Effects.ico
+    |   |   |       Audition.ico
+    |   |   |       Beta Character Animator.ico
+    |   |   |       Beta Media Encoder.ico
+    |   |   |       Beta Premiere Pro.ico
+    |   |   |       Character Animator.ico
+    |   |   |       InDesign.ico
+    |   |   |       Media Encoder.ico
     |   |   |       Photoshop.ico
-    |   |   |       Premiere Pro Beta.ico
     |   |   |       Premiere Pro.ico
     |   |   |       
-    |   |   \---Paper
-    |   |           Dreamweaver.ico
-    |   |           Illustrator.ico
-    |   |           InCopy ICAP.ico
-    |   |           InCopy ICMT.ico
-    |   |           InDesign INDT.ico
+    |   |   +---Paper
+    |   |   |       Dreamweaver.ico
+    |   |   |       Illustrator.ico
+    |   |   |       InCopy ICAP.ico
+    |   |   |       InCopy ICMT.ico
+    |   |   |       InDesign INDT.ico
+    |   |   |       
+    |   |   +---Store
+    |   |   |       ADDR.ico
+    |   |   |       LOC.ico
+    |   |   |       
+    |   |   \---z Other
+    |   |           Adobe2.ico
+    |   |           CC.ico
+    |   |           CC2.ico
+    |   |           IconGroup202.ico
+    |   |           ME.ico
+    |   |           Package Adobe.ico
+    |   |           PS.ico
     |   |           
     |   +---Adobe (Windows Style)
     |   |       Adobe After Effects.ico
@@ -472,6 +513,13 @@
     |   |       _Microsoft 365.ico
     |   |       _Office.ico
     |   |       
+    |   +---Microsoft Edge
+    |   |       Edge BETA.ico
+    |   |       Edge CAN.ico
+    |   |       Edge DEV.ico
+    |   |       Edge WebView.ico
+    |   |       Edge.ico
+    |   |       
     |   +---PowerToys
     |   |       Color Picker.ico
     |   |       Fancy Zones.ico
@@ -504,17 +552,20 @@
     |       Windows Explorer.ico
     |       
     +---Apps (Windows 8)
-    |   |   Microsoft Office.ico
+    |   |   Calculator.ico
+    |   |   Camera.ico
+    |   |   DotNet.ico
+    |   |   Lync (Skype for Business).ico
+    |   |   Microsoft Edge.ico
+    |   |   Package.ico
+    |   |   Photos.ico
+    |   |   Settings.ico
+    |   |   Visual Studio.ico
+    |   |   Windows Store.ico
     |   |   
-    |   \---Metro
-    |           Calculator.ico
-    |           Camera.ico
-    |           Microsoft Edge.ico
-    |           Package.ico
-    |           Photos.ico
-    |           Settings.ico
-    |           Visual Studio.ico
-    |           Windows Store.ico
+    |   \---Transparent
+    |           Lync.ico
+    |           Microsoft Office.ico
     |           
     +---Apps (Windows 95)
     |       Windows Explorer.ico
@@ -555,31 +606,37 @@
     |       Windows Explorer.ico
     |       
     +---Disk (Windows 11)
+    |       Audio.ico
+    |       CD-R.ico
+    |       CD-ROM.ico
+    |       CD-RW.ico
+    |       Disk.ico
+    |       DVD+R.ico
+    |       DVD+RW.ico
+    |       DVD-R.ico
+    |       DVD-RAM.ico
+    |       DVD-ROM.ico
+    |       DVD-RW.ico
+    |       DVD.ico
+    |       HD DVD.ico
     |       ICON16768_1.ico
-    |       ICON173_1 (2).ico
-    |       ICON298_1.ico
-    |       ICON39_1 (2).ico
-    |       ICON40_1 (2).ico
-    |       ICON41_1 (2).ico
     |       ICON5329_1.ico
-    |       ICON56_1.ico
-    |       ICON61_1.ico
-    |       ICON62_1.ico
-    |       ICON63_1.ico
-    |       ICON64_1.ico
-    |       imageres_137.ico
-    |       imageres_139.ico
-    |       imageres_146.ico
-    |       imageres_172.ico
+    |       Unknown.ico
     |       
     +---Drive (Windows 10)
     |       Disk Cleanup.ico
     |       
     +---Drive (Windows 11)
-    |       DDORes_2511.ico
+    |       CD Disk.ico
+    |       CD Locked.ico
+    |       CD Unlocked.ico
+    |       CD.ico
     |       DDORes_2512.ico
     |       DDORes_2519.ico
     |       DDORes_2525.ico
+    |       Drive Lock.ico
+    |       Drive Locked.ico
+    |       Drive Unlocked.ico
     |       drive-arch.ico
     |       drive-backups.ico
     |       drive-centos.ico
@@ -618,44 +675,40 @@
     |       drive-w11.ico
     |       drive-youtube.ico
     |       drive-zorin.ico
+    |       Drive.ico
+    |       DVD.ico
+    |       Floppy.ico
+    |       Folder.ico
+    |       Google Drive.ico
     |       ICON1032_1 (2).ico
     |       ICON1032_1.ico
-    |       ICON1033_1 (2).ico
-    |       ICON1033_1.ico
     |       ICON1034_1 (2).ico
     |       ICON1034_1.ico
     |       ICON165_1.ico
-    |       ICON16776_1.ico
     |       ICON167_1 (2).ico
-    |       ICON28_1 (2).ico
-    |       ICON28_1.ico
-    |       ICON29_1 (2).ico
     |       ICON29_1.ico
-    |       ICON30_1 (2).ico
-    |       ICON30_1.ico
     |       ICON31_1 (2).ico
     |       ICON31_1.ico
     |       ICON32_1.ico
     |       ICON33_1.ico
     |       ICON36_1 (2).ico
     |       ICON36_1.ico
-    |       ICON37_1 (2).ico
-    |       ICON37_1.ico
-    |       ICON42_1 (2).ico
     |       ICON42_1.ico
     |       ICON43_1.ico
     |       ICON44_1 (2).ico
     |       ICON44_1.ico
-    |       ICON5326_1.ico
-    |       ICON5330_1.ico
-    |       ICON5381_1.ico
     |       ICON91_1.ico
-    |       imageres_1030.ico
     |       imageres_5379.ico
-    |       imageres_75.ico
     |       imageres_91.ico
-    |       Locked Drive.ico
-    |       Locked Windows 11 Drive.ico
+    |       pCloud Drive.ico
+    |       Refresh.ico
+    |       SD Card.ico
+    |       SD.ico
+    |       Search.ico
+    |       Unknown.ico
+    |       Windows 10 Drive Unlocked.ico
+    |       Windows 11 Drive Locked.ico
+    |       Windows 11 Drive Unlocked.ico
     |       
     +---Drive (Windows 7)
     |       Disk Cleanup.ico
@@ -8006,6 +8059,7 @@
     |       
     +---PSD
     |       Archive Icon.psd
+    |       Drive.psd
     |       Preview Adobe.psd
     |       Preview Windows.psd
     |       
