@@ -7,6 +7,7 @@
 |   
 \---ICO
     +---Apps (Windows 10)
+    |   |   Console.ico
     |   |   Create Virtual Machine.ico
     |   |   mods_supported_unlocked.ico
     |   |   OneDrive (Work).ico
@@ -29,6 +30,7 @@
     |   |   Audio.ico
     |   |   AutoCAD.ico
     |   |   Autodesk 3ds Max.ico
+    |   |   BetterLyrics.ico
     |   |   Bing.ico
     |   |   Blender.ico
     |   |   Bluetooth.ico
@@ -54,6 +56,7 @@
     |   |   Family Safety Monitor.ico
     |   |   Feedback Hub.ico
     |   |   File Explorer 2.ico
+    |   |   Files UWP.ico
     |   |   Film.ico
     |   |   FL Studio.ico
     |   |   FolderTime.ico
@@ -242,6 +245,7 @@
     |   |   Phone.ico
     |   |   Photos.ico
     |   |   PictureFrame.ico
+    |   |   Pin.ico
     |   |   PMPMultimedia.ico
     |   |   Power Automate Troubleshooting Tool.ico
     |   |   Power Automate.ico
@@ -250,6 +254,7 @@
     |   |   Projector.ico
     |   |   qb (c).ico
     |   |   Quick Assist.ico
+    |   |   QuickLook.ico
     |   |   Rainmeter.ico
     |   |   Recall.ico
     |   |   Rectify11.ico
@@ -279,7 +284,6 @@
     |   |   shell32_16803.ico
     |   |   shell32_16805.ico
     |   |   shell32_16806.ico
-    |   |   shell32_16826.ico
     |   |   shell32_194.ico
     |   |   shell32_231.ico
     |   |   shell32_327.ico
@@ -299,6 +303,7 @@
     |   |   Twitter 2.ico
     |   |   Twitter.ico
     |   |   Ubisoft.ico
+    |   |   UniGetUI.ico
     |   |   Uninstall Tool.ico
     |   |   Unity.ico
     |   |   Vegas Pro.ico
@@ -307,6 +312,7 @@
     |   |   Voice Recorder.ico
     |   |   VoiceAccess.ico
     |   |   Wearable.ico
+    |   |   Web.ico
     |   |   Webcam.ico
     |   |   Windows 365 Cloud.ico
     |   |   Windows 365.ico
@@ -318,6 +324,8 @@
     |   |   Windows Sandbox.ico
     |   |   Windows Security.ico
     |   |   Windows.ico
+    |   |   Windows365 Old.ico
+    |   |   Windows365.ico
     |   |   WinPhotoViewer.ico
     |   |   Wise Registry Cleaner.ico
     |   |   WSA.ico
@@ -560,6 +568,8 @@
     |   |       MSI.ico
     |   |       Store Installer.ico
     |   |       Windows Package Feed (Feature Experience Pack).ico
+    |   |       WinGet.ico
+    |   |       WinGetStudio EXP.ico
     |   |       
     |   +---Development
     |   |   |   Blend for Visual Studio 2022 Preview.ico
@@ -570,10 +580,8 @@
     |   |   |   DevHome.ico
     |   |   |   DevHomeGitHubExt.ico
     |   |   |   DevHomePRE.ico
-    |   |   |   MSBuild.ico
     |   |   |   PowerShell 5.ico
     |   |   |   PowerShell 7.ico
-    |   |   |   SSMS PRE.ico
     |   |   |   SUDO.ico
     |   |   |   Visual Studio Code.ico
     |   |   |   
@@ -712,21 +720,32 @@
     |           WinObj.ico
     |           
     +---Apps (Windows 12)
-    |   \---Microsoft 365 (Office)
-    |           Access.ico
-    |           Excel.ico
-    |           OneNote.ico
-    |           Outlook (gold).ico
-    |           Outlook.ico
-    |           Powerpoint.ico
-    |           Publisher Alt.ico
-    |           Publisher.ico
-    |           Sharepoint.ico
-    |           Teams.ico
-    |           Word.ico
-    |           _Microsoft 365.ico
-    |           _OneDrive.ico
-    |           _Sticky Notes.ico
+    |   |   Blend for Visual Studio Insiders.ico
+    |   |   Blend for Visual Studio.ico
+    |   |   MSBuild.ico
+    |   |   SSMS PRE.ico
+    |   |   SSMS.ico
+    |   |   
+    |   +---Microsoft 365 (Office)
+    |   |       Access.ico
+    |   |       Excel.ico
+    |   |       OneNote.ico
+    |   |       Outlook (gold).ico
+    |   |       Outlook.ico
+    |   |       Powerpoint.ico
+    |   |       Publisher Alt.ico
+    |   |       Publisher.ico
+    |   |       Sharepoint.ico
+    |   |       Teams.ico
+    |   |       Word.ico
+    |   |       _Microsoft 365.ico
+    |   |       _OneDrive.ico
+    |   |       _Sticky Notes.ico
+    |   |       
+    |   \---Visual Studio
+    |           Visual Studio Insiders.ico
+    |           Visual Studio Installer.ico
+    |           Visual Studio.ico
     |           
     +---Apps (Windows 7)
     |   |   accessibilitycpl_1.ico
@@ -754,7 +773,7 @@
     |   |   audiosrv_203.ico
     |   |   AuthFWGP_100.ico
     |   |   baaupdate_1.ico
-    |   |   cmd_IDI_APPICON.ico
+    |   |   Console.ico
     |   |   dsuiext_4137.ico
     |   |   DVDMaker_128.ico
     |   |   DXPTaskRingtone_50.ico
@@ -774,15 +793,8 @@
     |   |   iexplore_7.ico
     |   |   imageres_10.ico
     |   |   imageres_100.ico
-    |   |   imageres_1001.ico
-    |   |   imageres_1002.ico
-    |   |   imageres_1003.ico
-    |   |   imageres_1004.ico
-    |   |   imageres_1005.ico
-    |   |   imageres_1008.ico
     |   |   imageres_101.ico
     |   |   imageres_1013.ico
-    |   |   imageres_1014.ico
     |   |   imageres_1015.ico
     |   |   imageres_1017.ico
     |   |   imageres_1018.ico
@@ -795,28 +807,14 @@
     |   |   imageres_1027.ico
     |   |   imageres_1029.ico
     |   |   imageres_103.ico
-    |   |   imageres_1030.ico
-    |   |   imageres_1031.ico
-    |   |   imageres_1032.ico
-    |   |   imageres_1033.ico
-    |   |   imageres_1034.ico
-    |   |   imageres_1035.ico
-    |   |   imageres_1036.ico
-    |   |   imageres_1037.ico
-    |   |   imageres_108.ico
     |   |   imageres_109.ico
     |   |   imageres_110.ico
     |   |   imageres_111.ico
-    |   |   imageres_112.ico
-    |   |   imageres_113.ico
     |   |   imageres_114.ico
-    |   |   imageres_115.ico
     |   |   imageres_116.ico
     |   |   imageres_117.ico
     |   |   imageres_120.ico
     |   |   imageres_122.ico
-    |   |   imageres_123.ico
-    |   |   imageres_129.ico
     |   |   imageres_130.ico
     |   |   imageres_143.ico
     |   |   imageres_144.ico
@@ -831,11 +829,9 @@
     |   |   imageres_152.ico
     |   |   imageres_157.ico
     |   |   imageres_161.ico
-    |   |   imageres_162.ico
     |   |   imageres_163.ico
     |   |   imageres_164.ico
     |   |   imageres_165.ico
-    |   |   imageres_166.ico
     |   |   imageres_167.ico
     |   |   imageres_168.ico
     |   |   imageres_169.ico
@@ -847,15 +843,8 @@
     |   |   imageres_177.ico
     |   |   imageres_178.ico
     |   |   imageres_179.ico
-    |   |   imageres_18.ico
     |   |   imageres_180.ico
-    |   |   imageres_181.ico
     |   |   imageres_182.ico
-    |   |   imageres_183.ico
-    |   |   imageres_184.ico
-    |   |   imageres_185.ico
-    |   |   imageres_186.ico
-    |   |   imageres_189.ico
     |   |   imageres_190.ico
     |   |   imageres_191.ico
     |   |   imageres_192.ico
@@ -873,7 +862,6 @@
     |   |   imageres_27.ico
     |   |   imageres_28.ico
     |   |   imageres_29.ico
-    |   |   imageres_3.ico
     |   |   imageres_30.ico
     |   |   imageres_31.ico
     |   |   imageres_33.ico
@@ -904,7 +892,6 @@
     |   |   imageres_74.ico
     |   |   imageres_75.ico
     |   |   imageres_76.ico
-    |   |   imageres_77.ico
     |   |   imageres_78.ico
     |   |   imageres_8.ico
     |   |   imageres_80.ico
@@ -1037,6 +1024,7 @@
     |   |   Printer.ico
     |   |   Settings.ico
     |   |   Shield.ico
+    |   |   Skype.ico
     |   |   Unified Write Filter UX.ico
     |   |   Visual Studio.ico
     |   |   Windows 7 Alt.ico
@@ -1049,9 +1037,19 @@
     |   |   Windows Update.ico
     |   |   Windows.ico
     |   |   
+    |   +---Color
+    |   |       ChatGPT.ico
+    |   |       NVIDIA FrameView Dark.ico
+    |   |       NVIDIA FrameView Light.ico
+    |   |       NVIDIA.ico
+    |   |       Skype (Offline).ico
+    |   |       
     |   +---Office
     |   |       Access.ico
     |   |       Lync (Skype for Business).ico
+    |   |       
+    |   +---Shadow
+    |   |       Xbox.ico
     |   |       
     |   \---Transparent
     |           Lync.ico
@@ -1417,6 +1415,10 @@
     |       imagesp1_207.ico
     |       
     +---Drive (Windows 10)
+    |   |   Desktop.ico
+    |   |   Dialog.ico
+    |   |   Disk.ico
+    |   |   Downloads.ico
     |   |   Drive Disk 2.ico
     |   |   Drive Disk.ico
     |   |   Drive Driver.ico
@@ -1424,6 +1426,7 @@
     |   |   Drive Removable.ico
     |   |   Drive Warning.ico
     |   |   Drive.ico
+    |   |   Error.ico
     |   |   Videos.ico
     |   |   Virtual Drive Driver.ico
     |   |   Virtual Drive Error.ico
@@ -1431,15 +1434,21 @@
     |   |   Virtual Drive.ico
     |   |   Windows.ico
     |   |   
-    |   +---Windows
-    |   |       (C) Drive - 10x.ico
-    |   |       (D) Drive - 10x.ico
-    |   |       Drive - W10.ico
-    |   |       Drive - W8.ico
-    |   |       drive-w10.ico
-    |   |       ICON1034_1.ico
-    |   |       ICON36_1.ico
-    |   |       Windows 10 Drive Icon.ico
+    |   +---Color
+    |   |       Blue.ico
+    |   |       Cyan.ico
+    |   |       Green.ico
+    |   |       Magenta.ico
+    |   |       Red.ico
+    |   |       Yellow.ico
+    |   |       
+    |   +---Color Windows
+    |   |       Blue.ico
+    |   |       Cyan.ico
+    |   |       Green.ico
+    |   |       Magenta.ico
+    |   |       Red.ico
+    |   |       Yellow.ico
     |   |       
     |   \---z
     |           Disk Cleanup.ico
@@ -1527,6 +1536,22 @@
     |   |       Drive - Network Google.ico
     |   |       OneDrive.ico
     |   |       pCloud Drive.ico
+    |   |       
+    |   +---Color
+    |   |       Blue.ico
+    |   |       Cyan.ico
+    |   |       Green.ico
+    |   |       Magenta.ico
+    |   |       Red.ico
+    |   |       Yellow.ico
+    |   |       
+    |   +---Color Windows
+    |   |       Blue.ico
+    |   |       Cyan.ico
+    |   |       Green.ico
+    |   |       Magenta.ico
+    |   |       Red.ico
+    |   |       Yellow.ico
     |   |       
     |   +---Development
     |   |       Dev.ico
@@ -1626,7 +1651,17 @@
     |   |       DevV.ico
     |   |       Virtual Hard Disk.ico
     |   |       
-    |   +---Windows
+    |   +---Windows 10
+    |   |       (C) Drive - 10x.ico
+    |   |       (D) Drive - 10x.ico
+    |   |       Drive - W10.ico
+    |   |       Drive - W8.ico
+    |   |       drive-w10.ico
+    |   |       ICON1034_1.ico
+    |   |       ICON36_1.ico
+    |   |       Windows 10 Drive Icon.ico
+    |   |       
+    |   +---Windows 11
     |   |       (C) Drive - 11.ico
     |   |       (D) Drive - 11.ico
     |   |       Drive - USB with OS.ico
@@ -1637,7 +1672,7 @@
     |   +---WIndows X
     |   |       zdrive-w11.ico
     |   |       
-    |   +---z
+    |   +---Z
     |   |       DMSMultimedia.ico
     |   |       NetworkStorage.ico
     |   |       Storage.ico
@@ -1656,16 +1691,40 @@
     |           Disk Management.ico
     |           
     +---Drive (Windows 7)
-    |       Disk Cleanup.ico
-    |       Drive Search.ico
-    |       imageres_32.ico
-    |       imageres_35.ico
-    |       imageres_36.ico
-    |       imageres_42.ico
-    |       imageres_43.ico
-    |       imageres_44.ico
-    |       Locked Drive.ico
-    |       
+    |   |   Disk Cleanup.ico
+    |   |   Drive Search.ico
+    |   |   imageres_1030.ico
+    |   |   imageres_1031.ico
+    |   |   imageres_1032.ico
+    |   |   imageres_1033.ico
+    |   |   imageres_1034.ico
+    |   |   imageres_1035.ico
+    |   |   imageres_1036.ico
+    |   |   imageres_1037.ico
+    |   |   imageres_32.ico
+    |   |   imageres_35.ico
+    |   |   imageres_36.ico
+    |   |   imageres_42.ico
+    |   |   imageres_43.ico
+    |   |   imageres_44.ico
+    |   |   Locked Drive.ico
+    |   |   
+    |   +---Color
+    |   |       Blue.ico
+    |   |       Cyan.ico
+    |   |       Green.ico
+    |   |       Magenta.ico
+    |   |       Red.ico
+    |   |       Yellow.ico
+    |   |       
+    |   \---Color Windows
+    |           Blue.ico
+    |           Cyan.ico
+    |           Green.ico
+    |           Magenta.ico
+    |           Red.ico
+    |           Yellow.ico
+    |           
     +---Drive (Windows Longhorn)
     |   |   ICON28_1.ico
     |   |   ICON29_1.ico
@@ -1681,10 +1740,12 @@
     |           ICON33_1.ico
     |           
     +---Filetypes (Windows 10)
-    |   |   08. ISO.ico
+    |   |   ISO.ico
     |   |   Media Player.ico
-    |   |   Virtual Drive.ico
     |   |   
+    |   +---Alt
+    |   |       Virtual Drive.ico
+    |   |       
     |   +---Archive
     |   |       00. 7Z.ico
     |   |       01. ZIP.ico
@@ -1711,6 +1772,7 @@
     |   |       23. XZ+TXZ (1).ico
     |   |       23. XZ+TXZ (2).ico
     |   |       24. SQUASHFS.ico
+    |   |       Hyper-V.ico
     |   |       
     |   +---Dropbox
     |   |       ICON4001_1.ico
@@ -1822,6 +1884,29 @@
     |           shell32_186.ico
     |           shell32_187.ico
     |           
+    +---Filetypes (Windows 12)
+    |   \---Microsoft 365 (Office)
+    |       +---Excel
+    |       |       1 Worksheet.ico
+    |       |       2 Template.ico
+    |       |       3 Macro.ico
+    |       |       4 CSV.ico
+    |       |       
+    |       +---OneNote
+    |       |       1 Section.ico
+    |       |       2 Package.ico
+    |       |       
+    |       +---PowerPoint
+    |       |       1 Presentation.ico
+    |       |       2 Template.ico
+    |       |       3 Macro.ico
+    |       |       4 Show.ico
+    |       |       
+    |       \---Word
+    |               1 Document.ico
+    |               2 Template.ico
+    |               3 Macro.ico
+    |               
     +---Filetypes (Windows 7)
     |   |   DVDMaker_440.ico
     |   |   Empty.ico
@@ -4887,6 +4972,8 @@
     |   |   |   Close Folder.ico
     |   |   |   Colorful.ico
     |   |   |   Contact Folder.ico
+    |   |   |   controld-1.ico
+    |   |   |   controld-2.ico
     |   |   |   creative.ico
     |   |   |   Cryptomator.ico
     |   |   |   Custom Podcasts.ico
@@ -4899,8 +4986,10 @@
     |   |   |   drivers.ico
     |   |   |   Dropbox.ico
     |   |   |   EA.ico
+    |   |   |   enea.ico
     |   |   |   epic-1.ico
     |   |   |   Epic.ico
+    |   |   |   erste.ico
     |   |   |   Game Folder.ico
     |   |   |   games.ico
     |   |   |   games2.ico
@@ -4919,11 +5008,13 @@
     |   |   |   Kodi Folder 2.ico
     |   |   |   Lenovo.ico
     |   |   |   Link Folder.ico
-    |   |   |   Mega.ico
+    |   |   |   mediaexpert.ico
+    |   |   |   mega.ico
     |   |   |   Minecraft.ico
     |   |   |   mpw.ico
     |   |   |   Music Generic.ico
     |   |   |   music.ico
+    |   |   |   myorlen.ico
     |   |   |   Nexus.ico
     |   |   |   NVIDIA.ico
     |   |   |   Office.ico
@@ -5380,6 +5471,7 @@
     |   |       nintendo-3ds.ico
     |   |       nintendo-switch.ico
     |   |       nintendo.ico
+    |   |       notepad++.ico
     |   |       numpad-macros.ico
     |   |       nvidia.ico
     |   |       nzxt.ico
@@ -7258,6 +7350,10 @@
     |           OneDrive (Work).ico
     |           OneDrive.ico
     |           
+    +---Folder (Windows 12)
+    |   \---_OneDrive
+    |           OneDrive.ico
+    |           
     +---Folder (Windows 7)
     |   |   Contacts.ico
     |   |   Desktop.ico
@@ -7277,6 +7373,23 @@
     |   |   Google Drive_ ICON28_1.ico
     |   |   Google Drive_ ICON30_1.ico
     |   |   Google Drive_ ICON61_1.ico
+    |   |   imageres_108.ico
+    |   |   imageres_112.ico
+    |   |   imageres_113.ico
+    |   |   imageres_115.ico
+    |   |   imageres_123.ico
+    |   |   imageres_129.ico
+    |   |   imageres_162.ico
+    |   |   imageres_166.ico
+    |   |   imageres_18.ico
+    |   |   imageres_181.ico
+    |   |   imageres_183.ico
+    |   |   imageres_184.ico
+    |   |   imageres_185.ico
+    |   |   imageres_186.ico
+    |   |   imageres_189.ico
+    |   |   imageres_3.ico
+    |   |   imageres_77.ico
     |   |   Links.ico
     |   |   Music.ico
     |   |   Pictures.ico
@@ -9986,336 +10099,339 @@
     +---Folder (Windows Longhorn)
     |   |   Base Back.ico
     |   |   Base Front.ico
+    |   |   Downloads.ico
     |   |   Folder.ico
     |   |   Music.ico
     |   |   Pictures.ico
     |   |   Update.ico
     |   |   
     |   \---Vista Folders -monolistic
-    |           3dmax.ico
-    |           7zip.ico
-    |           Abiword.ico
-    |           access.ico
-    |           Acronis Trueimage.ico
-    |           Adaware 2007.ico
-    |           adaware.ico
-    |           address book.ico
-    |           Adobe Acrobat 8.ico
-    |           adobe stock.ico
-    |           Adobe Update.ico
-    |           Adobe.ico
-    |           After Effects.ico
-    |           Aim files.ico
-    |           Aim.ico
-    |           alcohol120.ico
-    |           amd.ico
-    |           Apple.ico
-    |           applescripts.ico
-    |           applications.ico
-    |           Architecture.ico
-    |           asquared.ico
-    |           Assorted Files.ico
-    |           asus.ico
-    |           ati.ico
-    |           audacity.ico
-    |           Audio Book.ico
-    |           Autocad.ico
-    |           Autocade file.ico
-    |           avast.ico
-    |           Avatars.ico
-    |           avg.ico
-    |           axialis.ico
-    |           azureus.ico
-    |           backup.ico
-    |           bitcomet.ico
-    |           blender files.ico
-    |           blender.ico
-    |           Blizzard.ico
-    |           blogger.ico
-    |           blue.ico
-    |           Bluetooth.ico
-    |           bmp files.ico
-    |           bookmarks.ico
-    |           C&C3.ico
-    |           C++.ico
-    |           Cannon.ico
-    |           cd key.ico
-    |           chat log.ico
-    |           cinema4d.ico
-    |           Classic Games.ico
-    |           clear folder.ico
-    |           Comdo Firewall.ico
-    |           comics.ico
-    |           Contribute CS3.ico
-    |           coreldraw.ico
-    |           CounterStrike Source.ico
-    |           Creation.ico
-    |           csharp.ico
-    |           CSS.ico
-    |           current work.ico
-    |           cursors.ico
-    |           dark.ico
-    |           database.ico
-    |           Dell.ico
-    |           desktop (2).ico
-    |           Desktops.ico
-    |           deviantart.ico
-    |           Divx.ico
-    |           docments and settings.ico
-    |           dotNET.ico
-    |           downloads (2).ico
-    |           downloads 2.ico
-    |           Dreamweaver CS3.ico
-    |           drivers.ico
-    |           DVDFab.ico
-    |           ea games.ico
-    |           ebooks.ico
-    |           emoticons.ico
-    |           emule.ico
-    |           Encore CS3.ico
-    |           etax.ico
-    |           excel.ico
-    |           File Scrap.ico
-    |           Filezilla.ico
-    |           firefox folder.ico
-    |           firefox.ico
-    |           fireworks files.ico
-    |           Fireworks.ico
-    |           Flash CS3.ico
-    |           flash files.ico
-    |           flashget.ico
-    |           Flex CS3.ico
-    |           FLV.ico
-    |           fonts.ico
-    |           freehand files.ico
-    |           gaim.ico
-    |           games (2).ico
-    |           gif files.ico
-    |           gigabeat.ico
-    |           gimp.ico
-    |           GoLive CS3.ico
-    |           google earth.ico
-    |           google.ico
-    |           Graphics.ico
-    |           green.ico
-    |           gta sa.ico
-    |           gtalk.ico
-    |           Hamachi.ico
-    |           HP.ico
-    |           HTML.ico
-    |           icons.ico
-    |           Illustrator CS3.ico
-    |           illustrator files.ico
-    |           illustrator.ico
-    |           Imagerar.ico
-    |           imageready (2).ico
-    |           imageready.ico
-    |           important.ico
-    |           InCopy CS3.ico
-    |           InDesign CS3.ico
-    |           indesign files.ico
-    |           indesign.ico
-    |           inkscape.ico
-    |           intel.ico
-    |           internet.ico
-    |           iPhone.ico
-    |           ipod.ico
-    |           iso.ico
-    |           itunes.ico
-    |           Java file.ico
-    |           Java.ico
-    |           Javascript.ico
-    |           jpg files.ico
-    |           Keyboard Keys.ico
-    |           keys.ico
-    |           Kon files.ico
-    |           Kon resources.ico
-    |           kon.ico
-    |           lame.ico
-    |           limewire.ico
-    |           live messenger shared.ico
-    |           Logitech.ico
-    |           Logo design.ico
-    |           Marco.ico
-    |           maya files 2.ico
-    |           maya files.ico
-    |           McAfee.ico
-    |           Mediawiki.ico
-    |           Messenger Avatars.ico
-    |           Microsof Reader.ico
-    |           mobile files.ico
-    |           mobile.ico
-    |           Mobipocket.ico
-    |           money.ico
-    |           movies.ico
-    |           multimedia.ico
-    |           music (2).ico
-    |           myspace.ico
-    |           Napster files.ico
-    |           Napster.ico
-    |           negative.ico
-    |           Nero.ico
-    |           net items 2.ico
-    |           net items.ico
-    |           NHC.ico
-    |           Nintendo Classic.ico
-    |           Nintendo DS.ico
-    |           nod32.ico
-    |           Nokia N95.ico
-    |           Norton Ghost.ico
-    |           norton.ico
-    |           nvidia.ico
-    |           NVU.ico
-    |           objectdock.ico
-    |           office folder.ico
-    |           openoffice.ico
-    |           opera.ico
-    |           orange.ico
-    |           outlook.ico
-    |           painter.ico
-    |           Palm.ico
-    |           panda.ico
-    |           pascal.ico
-    |           pdf.ico
-    |           perl.ico
-    |           Photos.ico
-    |           Photoshop CS3.ico
-    |           Photoshop File.ico
-    |           photoshop.ico
-    |           Php.ico
-    |           Pic Scrap.ico
-    |           Picasa.ico
-    |           pictures (2).ico
-    |           pictures 2.ico
-    |           Pidgin.ico
-    |           pink.ico
-    |           Pixelart.ico
-    |           plans (2).ico
-    |           Plans.ico
-    |           Playlist.ico
-    |           Playstation 3.ico
-    |           png.ico
-    |           Podcast.ico
-    |           positive.ico
-    |           powerdvd.ico
-    |           powerpoint.ico
-    |           Premier Pro.ico
-    |           programs.ico
-    |           Project.ico
-    |           protection.ico
-    |           psd files.ico
-    |           psp.ico
-    |           publisher.ico
-    |           purple.ico
-    |           python.ico
-    |           quicktime trailers.ico
-    |           quicktime.ico
-    |           Rainlendar.ico
-    |           Razer.ico
-    |           Real Music.ico
-    |           Real Video.ico
-    |           Real.ico
-    |           received files.ico
-    |           red.ico
-    |           Resources.ico
-    |           Robolab.ico
-    |           Samurize.ico
-    |           scribus.ico
-    |           Scripts.ico
-    |           secure.ico
-    |           Sega.ico
-    |           shared.ico
-    |           Sidebar Gadgets.ico
-    |           Simcity 4.ico
-    |           Sketch.ico
-    |           skype.ico
-    |           Snips.ico
-    |           songbird.ico
-    |           Sonic.ico
-    |           Sound Recordings.ico
-    |           Soundbooth CS3.ico
-    |           Sprays 1.ico
-    |           Spybot.ico
-    |           Starcraft 2.ico
-    |           stylexp.ico
-    |           sunbird folder.ico
-    |           sunbird.ico
-    |           Symantec.ico
-    |           Symbian 60 Applications.ico
-    |           Symbian 60 Themes.ico
-    |           Symbian Programs.ico
-    |           system.ico
-    |           system32.ico
-    |           Telephone.ico
-    |           temp.ico
-    |           Template.ico
-    |           text.ico
-    |           theme.ico
-    |           themes.ico
-    |           thunderbird folder.ico
-    |           thunderbird.ico
-    |           trillian (2).ico
-    |           Trillian.ico
-    |           tutorial.ico
-    |           tv.ico
-    |           Ultramon Wallpaper.ico
-    |           Ultramon.ico
-    |           Ultramon2.ico
-    |           uni.ico
-    |           uploads 2.ico
-    |           uploads.ico
-    |           urge.ico
-    |           user home.ico
-    |           VB.ico
-    |           VB.net.ico
-    |           Version Cue CS3.ico
-    |           video.ico
-    |           VideoLan Client.ico
-    |           Virtual PC 2007.ico
-    |           Vista Folders 2.ico
-    |           vista folders 3.ico
-    |           Vista folders 4.ico
-    |           visual styles.ico
-    |           Vmware.ico
-    |           Warcraft 3.ico
-    |           Web Design.ico
-    |           webdesign (ie).ico
-    |           white.ico
-    |           Widget work.ico
-    |           widgets.ico
-    |           wifi.ico
-    |           Wii.ico
-    |           Win Defender.ico
-    |           Win Media Center.ico
-    |           Winamp.ico
-    |           windows update.ico
-    |           windows.ico
-    |           windowslive.ico
-    |           winrar.ico
-    |           winzip.ico
-    |           WMP 11 Music.ico
-    |           WMP11 Video.ico
-    |           WMP11.ico
-    |           word.ico
-    |           work.ico
-    |           Workbench.ico
-    |           WoW.ico
-    |           Xanga.ico
-    |           Xbox 360.ico
-    |           Xfire.ico
-    |           XML.ico
-    |           xnview.ico
-    |           yahoo.ico
-    |           yahoomessenger.ico
-    |           yellow.ico
-    |           youtube.ico
-    |           YWE resources.ico
-    |           YWE.ico
-    |           zenvision.ico
-    |           zipgenius.ico
-    |           zonealarm.ico
-    |           zune.ico
-    |           
+    |       |   3dmax.ico
+    |       |   7zip.ico
+    |       |   Abiword.ico
+    |       |   access.ico
+    |       |   Acronis Trueimage.ico
+    |       |   Adaware 2007.ico
+    |       |   adaware.ico
+    |       |   address book.ico
+    |       |   Adobe Acrobat 8.ico
+    |       |   adobe stock.ico
+    |       |   Adobe Update.ico
+    |       |   Adobe.ico
+    |       |   After Effects.ico
+    |       |   Aim files.ico
+    |       |   Aim.ico
+    |       |   alcohol120.ico
+    |       |   amd.ico
+    |       |   Apple.ico
+    |       |   applescripts.ico
+    |       |   applications.ico
+    |       |   Architecture.ico
+    |       |   asquared.ico
+    |       |   Assorted Files.ico
+    |       |   asus.ico
+    |       |   ati.ico
+    |       |   audacity.ico
+    |       |   Audio Book.ico
+    |       |   Autocad.ico
+    |       |   Autocade file.ico
+    |       |   avast.ico
+    |       |   Avatars.ico
+    |       |   avg.ico
+    |       |   axialis.ico
+    |       |   azureus.ico
+    |       |   backup.ico
+    |       |   bitcomet.ico
+    |       |   blender files.ico
+    |       |   blender.ico
+    |       |   Blizzard.ico
+    |       |   blogger.ico
+    |       |   Bluetooth.ico
+    |       |   bmp files.ico
+    |       |   bookmarks.ico
+    |       |   C&C3.ico
+    |       |   C++.ico
+    |       |   Cannon.ico
+    |       |   cd key.ico
+    |       |   chat log.ico
+    |       |   cinema4d.ico
+    |       |   Classic Games.ico
+    |       |   Comdo Firewall.ico
+    |       |   comics.ico
+    |       |   Contribute CS3.ico
+    |       |   coreldraw.ico
+    |       |   CounterStrike Source.ico
+    |       |   Creation.ico
+    |       |   csharp.ico
+    |       |   CSS.ico
+    |       |   current work.ico
+    |       |   cursors.ico
+    |       |   database.ico
+    |       |   Dell.ico
+    |       |   desktop (2).ico
+    |       |   Desktops.ico
+    |       |   deviantart.ico
+    |       |   Divx.ico
+    |       |   docments and settings.ico
+    |       |   dotNET.ico
+    |       |   downloads (2).ico
+    |       |   downloads 2.ico
+    |       |   Dreamweaver CS3.ico
+    |       |   drivers.ico
+    |       |   DVDFab.ico
+    |       |   ea games.ico
+    |       |   ebooks.ico
+    |       |   emoticons.ico
+    |       |   emule.ico
+    |       |   Encore CS3.ico
+    |       |   etax.ico
+    |       |   excel.ico
+    |       |   File Scrap.ico
+    |       |   Filezilla.ico
+    |       |   firefox folder.ico
+    |       |   firefox.ico
+    |       |   fireworks files.ico
+    |       |   Fireworks.ico
+    |       |   Flash CS3.ico
+    |       |   flash files.ico
+    |       |   flashget.ico
+    |       |   Flex CS3.ico
+    |       |   FLV.ico
+    |       |   fonts.ico
+    |       |   freehand files.ico
+    |       |   gaim.ico
+    |       |   games (2).ico
+    |       |   gif files.ico
+    |       |   gigabeat.ico
+    |       |   gimp.ico
+    |       |   GoLive CS3.ico
+    |       |   google earth.ico
+    |       |   google.ico
+    |       |   Graphics.ico
+    |       |   gta sa.ico
+    |       |   gtalk.ico
+    |       |   Hamachi.ico
+    |       |   HP.ico
+    |       |   HTML.ico
+    |       |   icons.ico
+    |       |   Illustrator CS3.ico
+    |       |   illustrator files.ico
+    |       |   illustrator.ico
+    |       |   Imagerar.ico
+    |       |   imageready (2).ico
+    |       |   imageready.ico
+    |       |   important.ico
+    |       |   InCopy CS3.ico
+    |       |   InDesign CS3.ico
+    |       |   indesign files.ico
+    |       |   indesign.ico
+    |       |   inkscape.ico
+    |       |   intel.ico
+    |       |   internet.ico
+    |       |   iPhone.ico
+    |       |   ipod.ico
+    |       |   iso.ico
+    |       |   itunes.ico
+    |       |   Java file.ico
+    |       |   Java.ico
+    |       |   Javascript.ico
+    |       |   jpg files.ico
+    |       |   Keyboard Keys.ico
+    |       |   keys.ico
+    |       |   Kon files.ico
+    |       |   Kon resources.ico
+    |       |   kon.ico
+    |       |   lame.ico
+    |       |   limewire.ico
+    |       |   live messenger shared.ico
+    |       |   Logitech.ico
+    |       |   Logo design.ico
+    |       |   Marco.ico
+    |       |   maya files 2.ico
+    |       |   maya files.ico
+    |       |   McAfee.ico
+    |       |   Mediawiki.ico
+    |       |   Messenger Avatars.ico
+    |       |   Microsof Reader.ico
+    |       |   mobile files.ico
+    |       |   mobile.ico
+    |       |   Mobipocket.ico
+    |       |   money.ico
+    |       |   movies.ico
+    |       |   multimedia.ico
+    |       |   music (2).ico
+    |       |   myspace.ico
+    |       |   Napster files.ico
+    |       |   Napster.ico
+    |       |   negative.ico
+    |       |   Nero.ico
+    |       |   net items 2.ico
+    |       |   net items.ico
+    |       |   NHC.ico
+    |       |   Nintendo Classic.ico
+    |       |   Nintendo DS.ico
+    |       |   nod32.ico
+    |       |   Nokia N95.ico
+    |       |   Norton Ghost.ico
+    |       |   norton.ico
+    |       |   nvidia.ico
+    |       |   NVU.ico
+    |       |   objectdock.ico
+    |       |   office folder.ico
+    |       |   openoffice.ico
+    |       |   opera.ico
+    |       |   outlook.ico
+    |       |   painter.ico
+    |       |   Palm.ico
+    |       |   panda.ico
+    |       |   pascal.ico
+    |       |   pdf.ico
+    |       |   perl.ico
+    |       |   Photos.ico
+    |       |   Photoshop CS3.ico
+    |       |   Photoshop File.ico
+    |       |   photoshop.ico
+    |       |   Php.ico
+    |       |   Pic Scrap.ico
+    |       |   Picasa.ico
+    |       |   pictures (2).ico
+    |       |   pictures 2.ico
+    |       |   Pidgin.ico
+    |       |   Pixelart.ico
+    |       |   plans (2).ico
+    |       |   Plans.ico
+    |       |   Playlist.ico
+    |       |   Playstation 3.ico
+    |       |   png.ico
+    |       |   Podcast.ico
+    |       |   positive.ico
+    |       |   powerdvd.ico
+    |       |   powerpoint.ico
+    |       |   Premier Pro.ico
+    |       |   programs.ico
+    |       |   Project.ico
+    |       |   protection.ico
+    |       |   psd files.ico
+    |       |   psp.ico
+    |       |   publisher.ico
+    |       |   python.ico
+    |       |   quicktime trailers.ico
+    |       |   quicktime.ico
+    |       |   Rainlendar.ico
+    |       |   Razer.ico
+    |       |   Real Music.ico
+    |       |   Real Video.ico
+    |       |   Real.ico
+    |       |   received files.ico
+    |       |   Resources.ico
+    |       |   Robolab.ico
+    |       |   Samurize.ico
+    |       |   scribus.ico
+    |       |   Scripts.ico
+    |       |   secure.ico
+    |       |   Sega.ico
+    |       |   shared.ico
+    |       |   Sidebar Gadgets.ico
+    |       |   Simcity 4.ico
+    |       |   Sketch.ico
+    |       |   skype.ico
+    |       |   Snips.ico
+    |       |   songbird.ico
+    |       |   Sonic.ico
+    |       |   Sound Recordings.ico
+    |       |   Soundbooth CS3.ico
+    |       |   Sprays 1.ico
+    |       |   Spybot.ico
+    |       |   Starcraft 2.ico
+    |       |   stylexp.ico
+    |       |   sunbird folder.ico
+    |       |   sunbird.ico
+    |       |   Symantec.ico
+    |       |   Symbian 60 Applications.ico
+    |       |   Symbian 60 Themes.ico
+    |       |   Symbian Programs.ico
+    |       |   system.ico
+    |       |   system32.ico
+    |       |   Telephone.ico
+    |       |   temp.ico
+    |       |   Template.ico
+    |       |   text.ico
+    |       |   theme.ico
+    |       |   themes.ico
+    |       |   thunderbird folder.ico
+    |       |   thunderbird.ico
+    |       |   trillian (2).ico
+    |       |   Trillian.ico
+    |       |   tutorial.ico
+    |       |   tv.ico
+    |       |   Ultramon Wallpaper.ico
+    |       |   Ultramon.ico
+    |       |   Ultramon2.ico
+    |       |   uni.ico
+    |       |   uploads 2.ico
+    |       |   uploads.ico
+    |       |   urge.ico
+    |       |   user home.ico
+    |       |   VB.ico
+    |       |   VB.net.ico
+    |       |   Version Cue CS3.ico
+    |       |   video.ico
+    |       |   VideoLan Client.ico
+    |       |   Virtual PC 2007.ico
+    |       |   Vista Folders 2.ico
+    |       |   vista folders 3.ico
+    |       |   Vista folders 4.ico
+    |       |   visual styles.ico
+    |       |   Vmware.ico
+    |       |   Warcraft 3.ico
+    |       |   Web Design.ico
+    |       |   webdesign (ie).ico
+    |       |   Widget work.ico
+    |       |   widgets.ico
+    |       |   wifi.ico
+    |       |   Wii.ico
+    |       |   Win Defender.ico
+    |       |   Win Media Center.ico
+    |       |   Winamp.ico
+    |       |   windows update.ico
+    |       |   windows.ico
+    |       |   windowslive.ico
+    |       |   winrar.ico
+    |       |   winzip.ico
+    |       |   WMP 11 Music.ico
+    |       |   WMP11 Video.ico
+    |       |   WMP11.ico
+    |       |   word.ico
+    |       |   work.ico
+    |       |   Workbench.ico
+    |       |   WoW.ico
+    |       |   Xanga.ico
+    |       |   Xbox 360.ico
+    |       |   Xfire.ico
+    |       |   XML.ico
+    |       |   xnview.ico
+    |       |   yahoo.ico
+    |       |   yahoomessenger.ico
+    |       |   youtube.ico
+    |       |   YWE resources.ico
+    |       |   YWE.ico
+    |       |   zenvision.ico
+    |       |   zipgenius.ico
+    |       |   zonealarm.ico
+    |       |   zune.ico
+    |       |   
+    |       \---Color
+    |               Blue.ico
+    |               Clear.ico
+    |               Dark.ico
+    |               Green.ico
+    |               Orange.ico
+    |               Pink.ico
+    |               Purple.ico
+    |               Red.ico
+    |               White.ico
+    |               Yellow.ico
+    |               
     +---Folder (Windows Vista)
     |       Contacts.ico
     |       Desktop.ico
@@ -10369,6 +10485,15 @@
     |       Pictures.ico
     |       TV.ico
     |       Videos.ico
+    |       
+    +---Library (Windows 7)
+    |       imageres_1001.ico
+    |       imageres_1002.ico
+    |       imageres_1003.ico
+    |       imageres_1004.ico
+    |       imageres_1005.ico
+    |       imageres_1008.ico
+    |       imageres_1014.ico
     |       
     +---Message (Windows 10)
     |       Information.ico
@@ -10511,7 +10636,6 @@
                 OneDrive_567.ico
                 OneDrive_568.ico
                 OneDrive_586.ico
-                OneDrive_588.ico
                 OneDrive_589.ico
                 OneDrive_590.ico
                 
